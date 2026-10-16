@@ -1,5 +1,5 @@
 /*!
- * login-page-10 - Colorlib. No jQuery, no framework.
+ * login-Ruang-Baca - Colorlib. No jQuery, no framework.
  * Behaviours: own-script
  */
 /* The page's own script, unchanged: it never needed jQuery. */
