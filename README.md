@@ -1,4 +1,4 @@
-# Login Page V10 | Colorlib
+# Login Ruang | Colorlib
 
 A free HTML snippet from Colorlib. Open `index.html` in a browser -- there is
 nothing to install and nothing to build.
@@ -33,4 +33,3 @@ Free for personal and commercial use. Attribution appreciated, not required.
 Photography, where present, is licensed for use inside this template.
 
 https://colorlib.com/wp/template/login-page-10/
-"# bootstrap-alya" 
